@@ -1,0 +1,431 @@
+
+table {
+    margin: 0;
+    padding: 0;
+
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+
+
+.wrapper {
+}
+
+.wrapper__header {
+    padding: 23px 0 25px 0;
+}
+
+.wrapper__logo {}
+
+.wrapper__content {
+    padding: 0 60px 0 60px;
+
+}
+
+.content {
+    padding: 0;
+}
+
+.content__header {
+    padding: 46px 0 0 35px;
+}
+
+.content__logo {}
+
+.content__title {
+    padding: 15px 0 0 0;
+    font-family: Arial, sans-serif;
+    color:  #404040;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.content__sub-title {
+    padding: 18px 0 15px 0;
+    font-family: Arial, sans-serif;
+    color:  #404040;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+}
+
+.content__order-box {
+}
+
+.content__order {
+    width: 520px;
+}
+
+.content__order-id {
+    padding: 10px 0 15px 0;
+}
+
+.content__order-sum {
+    padding: 10px 0 15px 0;
+}
+
+.content__id-name {
+    font-family: Arial, sans-serif;
+    color:  #808080;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.02rem;
+}
+
+.content__order-number {
+    font-family: Arial, sans-serif;
+    color:  #404040;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.02rem;
+}
+
+.content__sum-name {
+    font-family: Arial, sans-serif;
+    color:  #808080;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.02rem;
+}
+
+.content__sum-number {
+    font-family: Arial, sans-serif;
+    color:  #404040;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.02rem;
+}
+
+.content__pay-title {
+    padding: 25px 0 18px 0;
+    font-family: Arial, sans-serif;
+    color:  #404040;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+}
+
+.content__pay-ways-box {}
+
+.content__pay-ways {
+    vertical-align: top;
+}
+
+.content__mark {
+    line-height: 24px;
+    padding: 0 0 10px 0;
+    vertical-align: top;
+}
+
+.content__mark-box {
+    line-height: 24px;
+    display: inline-block;
+    width: 7px;
+    height: 7px;
+    border-bottom: 0;
+    border-left: 0;
+    border-right: 0;
+    border-top: 8px;
+    border-style: solid;
+    border-color: #f7f7f7;
+    box-sizing: content-box;
+    vertical-align: top;
+}
+
+.content__mark-icon {
+    line-height: 24px;
+    width: 7px;
+    height: 7px;
+}
+
+.content__pay-way {
+    padding: 0 0 10px 20px;
+    font-family: Arial, sans-serif;
+    color:  #404040;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    vertical-align: top;
+}
+
+.content__pay-way-link {
+    font-family: Arial, sans-serif;
+    color:  #404040;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    text-decoration: underline;
+}
+
+.content__order-detail-title {
+    padding: 25px 0 17px 0;
+    font-family: Arial, sans-serif;
+    color:  #404040;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+}
+
+.content__order-detail-box {
+    padding: 0 42px 0 42px;
+}
+
+.content__order-detail {
+    border-collapse: collapse;
+    border-width: 1px;
+    border-color: #f7f7f7;
+    border-style: solid;
+}
+
+.content__detail-name-title {
+    width: 330px;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color:  #404040;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+    border-width: 1px;
+    border-color: #f7f7f7;
+    border-style: solid;
+}
+
+.content__detail-number-title {
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color:  #404040;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+    border-width: 1px;
+    border-color: #f7f7f7;
+    border-style: solid;
+}
+
+.content__detail-price-title {
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color:  #404040;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+    border-width: 1px;
+    border-color: #f7f7f7;
+    border-style: solid;
+}
+
+.content__detail-sum-title {
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color:  #404040;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+    border-width: 1px;
+    border-color: #f7f7f7;
+    border-style: solid;
+}
+
+.content__detail-name {
+    padding: 10px 0 5px 26px;
+    border-width: 1px;
+    border-color: #f7f7f7;
+    border-style: solid;
+    font-family: Arial, sans-serif;
+    color:  #404040;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    text-align: left;
+    width: 330px;
+}
+
+.content__detail-number {
+    padding: 10px 12px 10px 26px;
+    border-width: 1px;
+    border-color: #f7f7f7;
+    border-style: solid;
+}
+
+.content__detail-price {
+    padding: 10px 12px 10px 26px;
+    border-width: 1px;
+    border-color: #f7f7f7;
+    border-style: solid;
+}
+
+.content__detail-sum {
+    padding: 10px 12px 10px 26px;
+    border-width: 1px;
+    border-color: #f7f7f7;
+    border-style: solid;
+}
+
+.content__recommendation-title {
+    padding: 40px 0 15px 0;
+    font-family: Arial, sans-serif;
+    color:  #404040;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: center;
+}
+
+.content__recommendation {
+    font-family: Arial, sans-serif;
+    color:  #404040;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    vertical-align: middle;
+}
+
+.content__recommendation-interval {
+    display: inline-block;
+    vertical-align: middle;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    width: 12px;
+    height: 18px;
+}
+
+
+.content__recommendation-icon {
+    display: inline-block;
+    line-height: 24px;
+    width: 18px;
+    height: 18px;
+    vertical-align: middle;
+}
+
+.content__recommendation-link {
+    font-family: Arial, sans-serif;
+    color:  #404040;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration: underline;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.content__bottom-distance {
+    height: 28px;
+    padding: 0;
+    border: 0;
+}
+
+.wrapper__footer-title {
+    padding: 25px 0 0 0;
+    font-family: Arial, sans-serif;
+    color:  #313030;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: center;
+}
+
+.wrapper__footer-subtitle {
+    padding: 15px 0 0 0;
+    font-family: Arial, sans-serif;
+    color:  #808080;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: center;
+}
+.wrapper__footer-cabinet-link {
+    font-family: Arial, sans-serif;
+    color:  #808080;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.wrapper__footer-contacts-box {}
+.wrapper__footer-contacts {
+    width: 650px;
+}
+
+.wrapper__footer-phone {
+    padding: 25px 0 30px 0;
+    font-family: Arial, sans-serif;
+    color:  #808080;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+}
+
+.wrapper__footer-consult-link-box {
+    padding: 25px 0 30px 0;
+    text-align: left;
+}
+
+.wrapper__footer-consult-link {
+    font-family: Arial, sans-serif;
+    color:  #808080;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.wrapper__footer-email-box {
+    padding: 25px 0 30px 0;
+    text-align: left;
+}
+
+.wrapper__footer-email-link {
+    font-family: Arial, sans-serif;
+    color:  #808080;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    text-decoration: underline;
+}
+.wrapper__footer-line {}
+
+.wrapper__footer-unsubcribe {
+    padding: 16px 0 16px 0;
+    font-family: Arial, sans-serif;
+    color:  #c0c0c0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: center;
+}
+
+.wrapper__footer-unsubscribe-link {
+    font-family: Arial, sans-serif;
+    color:  #c0c0c0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: center;
+    text-decoration: underline;
+}
